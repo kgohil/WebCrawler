@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-
-"""Web Crawler/Spider
-
-This module implements a web crawler. This is very _basic_ only
-and needs to be extended to do anything usefull with the
-traversed pages.
-
-From: http://code.activestate.com/recipes/576551-simple-web-crawler/
-
-"""
 
 import re
 import requests
